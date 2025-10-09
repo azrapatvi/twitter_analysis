@@ -12,6 +12,13 @@ This project focuses on analyzing a **Twitter dataset** using **Python for data 
 
 The main goal was to extract meaningful insights from the dataset and represent them visually through six detailed dashboards.
 
+### Project Resources
+
+- **Google Colab Notebook:** https://colab.research.google.com/drive/15DXL4iheCExNcxE7MwoJDE4J2SgwkyGp
+- **Dashboard:** https://app.powerbi.com/groups/me/reports/94e50a8c-243e-48a5-8ee7-5aedb00b8286/4c0f6afc830100ebcd94?experience=power-bi
+- **Project Report:** https://drive.google.com/file/d/1ENeMSV-9yfBoGYcBn8bEf5S0xOjwBbyQ/view?usp=sharing
+  
+
 ---
 
 ## **2. Tools and Technologies Used**
