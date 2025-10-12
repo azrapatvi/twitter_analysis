@@ -194,7 +194,8 @@ It strengthened my technical foundation in data analytics and improved my abilit
 
 ## **7. Project Evidence**
 
-Power bi dashbaord link: https://app.powerbi.com/groups/me/reports/94e50a8c-243e-48a5-8ee7-5aedb00b8286/4c0f6afc830100ebcd94?experience=power-bi
+Power bi dashbaord link: https://app.powerbi.com/view?r=eyJrIjoiODY0ZWNhZTUtZmEyMi00N2VkLWIyMDktMTBlMGM3MTg4NDZkIiwidCI6IjdiOTUzZWFjLTA3NjEtNGUyZC1iNTRmLWE5MjAwNGZjNTMzYSJ9
+
 colab link: https://colab.research.google.com/drive/15DXL4iheCExNcxE7MwoJDE4J2SgwkyGp 
 
 some Screen shots:
